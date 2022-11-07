@@ -3,7 +3,9 @@ The data is related with direct marketing campaigns (phone calls) of a Portugues
 
 
 ## [Link to the EDA pptx](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/)  
-## [Link to the EDA R Notebook](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Bank%20Classification.html) 
+## [Link to the EDA R Notebook](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Explorative%20Data%20Analysis.html) 
+## [Link to the Model Building Python Jupyter Notebook](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Model%20Building.html) 
+
 
 
 Source:  
