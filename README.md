@@ -2,9 +2,9 @@
 The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 
-## [Link to the Explorative Data Analysis (PowerPoint)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/)  
-## [Link to the Explorative Data Analysis (R code)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Explorative%20Data%20Analysis.html) 
-## [Link to the Model Building (Python Code)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Model%20Building.html) 
+## [Explorative Data Analysis (PowerPoint)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/)  
+## [Explorative Data Analysis (R code)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Explorative%20Data%20Analysis.html) 
+## [Model Building (Python Code)](https://yl4315.github.io/Predicting-The-Term-Deposit-Subscription/Model%20Building.html) 
 
 
 
